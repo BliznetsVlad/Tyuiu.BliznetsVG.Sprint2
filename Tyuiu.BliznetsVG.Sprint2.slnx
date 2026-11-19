@@ -34,4 +34,9 @@
     <Project Path="Tyuiu.BliznetsVG.Sprint2.Task6.V5.Test/Tyuiu.BliznetsVG.Sprint2.Task6.V5.Test.csproj" />
     <Project Path="Tyuiu.BliznetsVG.Sprint2.Task6.V5/Tyuiu.BliznetsVG.Sprint2.Task6.V5.csproj" />
   </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.BliznetsVG.Sprint2.Task7.V6.Lib/Tyuiu.BliznetsVG.Sprint2.Task7.V6.Lib.csproj" />
+    <Project Path="Tyuiu.BliznetsVG.Sprint2.Task7.V6.Test/Tyuiu.BliznetsVG.Sprint2.Task7.V6.Test.csproj" />
+    <Project Path="Tyuiu.BliznetsVG.Sprint2.Task7.V6/Tyuiu.BliznetsVG.Sprint2.Task7.V6.csproj" />
+  </Folder>
 </Solution>
