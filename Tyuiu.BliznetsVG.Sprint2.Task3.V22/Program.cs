@@ -24,6 +24,7 @@ namespace Tyuiu.BliznecVG.Sprint2.Task3.V22
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             Console.Write("Введите значение X: ");
             double x = Convert.ToDouble(Console.ReadLine());
 
